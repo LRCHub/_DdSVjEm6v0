@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Landslide",
+  "base_artist": "Oh Wonder",
+  "createdAt": "2026-03-12T18:16:08.024996Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Landslide",
+      "artist": "The Chicks",
+      "has_synced": true,
+      "path": "select/01_Landslide_The_Chicks.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Landslide (Album Version)",
+      "artist": "The Chicks",
+      "has_synced": true,
+      "path": "select/02_Landslide_(Album_Version)_The_Chicks.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Landslide",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/03_Landslide_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Landslide",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/04_Landslide_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Landslide",
+      "artist": "Stevie Nicks",
+      "has_synced": true,
+      "path": "select/05_Landslide_Stevie_Nicks.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Landslide (Live with the Melbourne Symphony, 2006)",
+      "artist": "Stevie Nicks",
+      "has_synced": false,
+      "path": "select/06_Landslide_(Live_with_the_Melbourne_Symphony,_2006)_Stevie_Nicks.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Landslide (Live with the Melbourne Symphony)",
+      "artist": "Stevie Nicks",
+      "has_synced": false,
+      "path": "select/07_Landslide_(Live_with_the_Melbourne_Symphony)_Stevie_Nicks.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Landslide",
+      "artist": "Oh Wonder",
+      "has_synced": true,
+      "path": "select/08_Landslide_Oh_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Horrible Fanfare / Landslide / Exoskeleton",
+      "artist": "Beck",
+      "has_synced": true,
+      "path": "select/09_The_Horrible_Fanfare___Landslide___Exoskeleton_Beck.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rotted Body Landslide",
+      "artist": "Cannibal Corpse",
+      "has_synced": false,
+      "path": "select/10_Rotted_Body_Landslide_Cannibal_Corpse.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Landslide",
+      "artist": "The Smashing Pumpkins",
+      "has_synced": true,
+      "path": "select/11_Landslide_The_Smashing_Pumpkins.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Landslide",
+      "artist": "Sin Fang",
+      "has_synced": false,
+      "path": "select/12_Landslide_Sin_Fang.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "3rd Eye Landslide",
+      "artist": "Monster Magnet",
+      "has_synced": true,
+      "path": "select/13_3rd_Eye_Landslide_Monster_Magnet.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Generation Landslide",
+      "artist": "Alice Cooper",
+      "has_synced": true,
+      "path": "select/14_Generation_Landslide_Alice_Cooper.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Generation Landslide",
+      "artist": "Alice Cooper",
+      "has_synced": false,
+      "path": "select/15_Generation_Landslide_Alice_Cooper.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Landslide",
+      "artist": "Oh Wonder",
+      "has_synced": false,
+      "path": "select/pl_01_Landslide_Oh_Wonder.txt"
+    }
+  ]
+}
